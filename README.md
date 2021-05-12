@@ -2,16 +2,17 @@
 
 Repositorio de la asignaturas Sistemas Inteligentes  
 Universidad Nacional - Sede Medellin  
-2020-2S
+2021-1S
 
 Docente: Ph.D. John Willian Branch  
 
-## Grabaciones  
-* Sesión 01: https://drive.google.com/file/d/1D4e4_NSGIl2i6KCi3HzeZesOzrXqGBq6/view?usp=sharing  
-* Sesión 02: https://drive.google.com/file/d/1nOPD7AIuzTCEd2k9aVzu44MdubGgIkCs/view?usp=sharing  
-* Sesión 03: https://drive.google.com/file/d/1gPLerByI9oC4Km1-mcsYtct3DWAYOG-s/view?usp=sharing  
-* Sesión 04: https://drive.google.com/file/d/1Gv4b-JV5giX0CRcMurwRH1-ikQFpL-ND/view?usp=sharing  
-* Sesión 05: https://drive.google.com/file/d/1LnqGaN9fyM76L-9fjwrqAL5JLOjq438v/view?usp=sharing  
-* Sesión 06: https://drive.google.com/file/d/1sQLS3RyTQDG_7IrgDzrdYEm8b93nR6gk/view?usp=sharing  
-* Sesión 07: https://drive.google.com/file/d/1mlJW5FlETZaGVVAoRwKiTA8xh7boH-Wd/view?usp=sharing  
-* Sesión 08: https://drive.google.com/file/d/1sKl-TOUYWmx3xy8ELds0g0iRtsp0VWDs/view?usp=sharing
+## Grabaciones 
+ 
+* Sesión 01: https://drive.google.com/drive/folders/1D4CSDhSqi3aX62gCwpKLypQ0xV5Ps4Yj  
+* Sesión 02: 
+* Sesión 03:  
+* Sesión 04:   
+* Sesión 05: 
+* Sesión 06:   
+* Sesión 07:   
+* Sesión 08: 
